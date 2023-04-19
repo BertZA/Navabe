@@ -3,13 +3,13 @@ Projet de session en GLO-2005 (H2023) Université Laval
 
 # Préréquis
 
-Assurez-vous, avant d'éxécuter ce code source, d'avoir installé : 
+Assurez-vous, avant d'éxécuter ce code source, d'avoir installé ou de posséder: 
 
 1. MySQL Server 8.0
 2. Python (La version utilisée ici est 3.10)
 3. MySQL connector pour Python
 4. Flask
-5. Connaissance de base en programmation WEB avec Javascript, HTML et CSS
+5. Une Connaissance de base en programmation WEB avec Javascript, HTML et CSS
 
 # Comment puis-je run le code ?
 1. Exécuter les commandes présentes dans Navabe.sql\
