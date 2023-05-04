@@ -3,7 +3,7 @@
 Le thème du projet de session étant libres aux étudiants.
 Nous avons choisi de developper une application web pour une librairie(fictive) nommée Navabe.\
 Nous nous sommes débrouillé, du mieux que l'on pouvait, à faire de cette application, une application web moderne, élégante et sécuritaire.\
-Étant encore en apprentissage, il est possible que certains aspects appliqués en milieu professionnel ait été omis ou mal appliqués.
+Étant encore en apprentissage, il est possible que certains aspects appliqués en milieu professionnel aient été omis ou mal appliqués.
 
 
 # Préréquis
